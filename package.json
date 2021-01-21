@@ -1,0 +1,8 @@
+{
+  "name": "practiceproject",
+  "version": "1.0.0",
+  "description": "saving school name in database",
+  "main": "index.js",
+  "author": "Ria",
+  "license": "MIT"
+}
